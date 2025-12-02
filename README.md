@@ -8,9 +8,9 @@
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Python 
-**AI/ML:** TensorFlow, PyTorch 
-**Tools:** Git, Figma
+**Languages:** Python **
+**AI/ML:** TensorFlow, PyTorch **
+**Tools:** Git, Figma **
 
 ---
 
