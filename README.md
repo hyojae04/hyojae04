@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 hi i'm 효재 (Hyojae)
 
-<!--
-**hyojae04/hyojae04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 인공지능 소프트웨어 재학중
+- AI·앱 개발, 가상현실 , 헬스케어 등 다양한 분야 관심있음
+- 새로운 기술과 현실적인 문제 해결에 관심
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Languages:** Python 
+**AI/ML:** TensorFlow, PyTorch 
+**Tools:** Git, Figma
+
+---
+
+### 📌 향후 시도 하고싶은 Projects
+- **AI 패션 코디 앱 예명 – DRAPE**
+- **식단 사진 분석 기반 건강 코치 앱**
+
+---
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojae04&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojae04&layout=compact)
+
+---
+
+### 📫 Contact
+**Email:** hyojaey77@gmail.com  
