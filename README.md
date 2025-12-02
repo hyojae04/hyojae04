@@ -21,8 +21,8 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojae04&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojae04&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=양효재&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=양효재&layout=compact)
 
 ---
 
