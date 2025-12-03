@@ -20,11 +20,21 @@
 
 ---
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=양효재&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=양효재&layout=compact)
+## 🔍 Interests (Categories)
 
----
+### AI / Machine Learning  
+- Computer Vision  
+- Recommendation Systems  
+- Generative AI  
+
+### Healthcare Tech  
+- 식단 분석  
+- 건강 관리 서비스  
+
+### Fashion Tech  
+- AI 스타일 추천  
+- Virtual Fitting  
+
 
 ### 📫 Contact
 **Email:** hyojaey77@gmail.com  
