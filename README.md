@@ -1,40 +1,59 @@
-# 👋 hi i'm 효재 (Hyojae)
+<div align="center">
 
-### 🚀 About Me
-- 인공지능 소프트웨어 재학중
-- AI·앱 개발, 가상현실 , 헬스케어 등 다양한 분야 관심있음
-- 새로운 기술과 현실적인 문제 해결에 관심
+# 👋 안녕하세요, 양효재입니다
 
----
+### AI와 Web 기술로 현실의 문제를 해결하는 개발자입니다.
 
-### 🛠 Tech Stack
-- **Languages:** Python
-- **AI/ML:** TensorFlow, PyTorch
-- **Tools:** Git, Figma
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C9A7&height=3&section=header" width="100%" alt="gradient divider" />
 
----
+</div>
 
-### 📌 향후 시도 하고싶은 Projects
-- **AI 패션 코디 앱 예명 – DRAPE**
-- **식단 사진 분석 기반 건강 코치 앱**
+## 🧑‍💻 About Me
 
----
+- 인공지능 소프트웨어를 공부하고 있습니다.
+- AI·앱 개발, 가상현실, 헬스케어 등 다양한 분야에 관심이 있습니다.
+- 새로운 기술을 배우고 현실적인 문제를 해결하는 과정을 좋아합니다.
 
-## 🔍 Interests (Categories)
+## 🧰 Tech Stack
 
-### AI / Machine Learning  
-- Computer Vision  
-- Recommendation Systems  
-- Generative AI  
+### 🌐 Frontend
 
-### Healthcare Tech  
-- 식단 분석  
-- 건강 관리 서비스  
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React" />
+</p>
 
-### Fashion Tech  
-- AI 스타일 추천  
-- Virtual Fitting  
+### 🗄️ Backend & Database
 
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-### 📫 Contact
-**Email:** hyojaey77@gmail.com  
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+### 🎨 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyojae04&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="Hyojae's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyojae04&layout=compact&theme=transparent&hide_border=true" height="165" alt="Hyojae's most used languages" />
+</div>
+
+## 📫 Contact
+
+<a href="mailto:hyojaey77@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-hyojaey77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email hyojaey77@gmail.com" />
+</a>
