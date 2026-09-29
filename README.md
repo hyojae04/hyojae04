@@ -1,11 +1,3 @@
-<div align="center">
-
-# 안녕하세요, 양효재입니다
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C9A7&height=3&section=header" width="100%" alt="gradient divider" />
-
-</div>
-
 ## 🧑‍💻 About Me
 
 - 인공지능 소프트웨어를 공부중
