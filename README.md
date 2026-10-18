@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-- 인공지능 소프트웨어를 공부중
+- Learning ai 
 
 ## 🧰 Tech Stack
 
@@ -14,14 +14,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🗄️ Backend & Database
+### 🗄️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
